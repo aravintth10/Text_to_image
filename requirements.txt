@@ -1,0 +1,9 @@
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.35.0
+huggingface_hub==0.19.4
+datasets==2.14.5
+numpy==1.26.0
+pandas==2.1.1
+matplotlib==3.8.0
+Pillow==10.0.1
